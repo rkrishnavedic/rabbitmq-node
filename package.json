@@ -1,0 +1,24 @@
+{
+  "name": "rabbitmq-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkrishnavedic/rabbitmq-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkrishnavedic/rabbitmq-node/issues"
+  },
+  "homepage": "https://github.com/rkrishnavedic/rabbitmq-node#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "dotenv": "^10.0.0"
+  }
+}
